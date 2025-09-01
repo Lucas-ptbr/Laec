@@ -1,0 +1,23 @@
+header{
+    background-color: rgb(166, 221, 228);
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    justify-content: space-between;
+}
+
+a{
+    color: black;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    max-width: 1000px;
+    background: white;
+    margin: 70px auto;
+    padding: 90px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
