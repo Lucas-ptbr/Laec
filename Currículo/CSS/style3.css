@@ -1,0 +1,62 @@
+  
+  *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f9f9;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+header {
+  background-color: #a8dde3;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 2em;
+}
+
+header nav a {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+header nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.habilidades h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+.item h3 {
+  color: #2a7f62;
+  font-weight: bold;
+}
+
+.item p {
+  margin-left: 10px;
+  font-size: 1.1em;
+}

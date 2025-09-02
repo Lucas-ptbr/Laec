@@ -1,10 +1,12 @@
-header{
-    background-color: rgb(166, 221, 228);
-    border-radius: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center ;
-    justify-content: space-between;
+
+header {
+  background-color: #a8dde3;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 a{
